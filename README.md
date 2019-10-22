@@ -16,10 +16,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 #### BONUS
 - [ ] (2pt) User can view the app on various device sizes and orientations.
-- [X] (1pt) Run your app on a real device.
+- [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
 <img src="http://g.recordit.co/cbW6UmrtKM.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Currently having problems deploying to iPhone as I get message `This iPhone is running iOS 13.1.2, which may not be supported by this version of Xcode`.
